@@ -1,0 +1,13 @@
+D:\Window Application\Automation\Automation\bin\Debug\Automation.exe.config
+D:\Window Application\Automation\Automation\bin\Debug\Automation.exe
+D:\Window Application\Automation\Automation\bin\Debug\Automation.pdb
+D:\Window Application\Automation\Automation\obj\Debug\Automation.csprojAssemblyReference.cache
+D:\Window Application\Automation\Automation\obj\Debug\Automation.Properties.Resources.resources
+D:\Window Application\Automation\Automation\obj\Debug\Automation.csproj.GenerateResource.cache
+D:\Window Application\Automation\Automation\obj\Debug\Automation.exe
+D:\Window Application\Automation\Automation\obj\Debug\Automation.pdb
+D:\Window Application\Automation\Automation\obj\Debug\Automation.Form2.resources
+D:\Window Application\Automation\Automation\obj\Debug\Automation.InboxForm.resources
+D:\Window Application\Automation\Automation\obj\Debug\Automation.EmailForm.resources
+D:\Window Application\Automation\Automation\obj\Debug\Automation.NavForm.resources
+D:\Window Application\Automation\Automation\obj\Debug\Automation.Send_Mail.SearchIncident.resources
